@@ -6,3 +6,4 @@ hawaii.rps
 hawaii.emission_rules
 hawaii.hydrogen
 hawaii.batteries
+hawaii.save_results
