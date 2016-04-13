@@ -1,0 +1,3 @@
+--scenario-name base
+--scenario-name no_hydrogen --exclude-module switch_hawaii.hydrogen
+
