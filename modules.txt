@@ -1,9 +1,8 @@
-switch_mod 
+switch_mod
 fuel_cost
 project.no_commit
-switch_hawaii.switch_patch
-switch_hawaii.rps
-switch_hawaii.emission_rules
-switch_hawaii.hydrogen
-switch_hawaii.batteries
-
+hawaii.switch_patch
+hawaii.rps
+hawaii.emission_rules
+hawaii.hydrogen
+hawaii.batteries
