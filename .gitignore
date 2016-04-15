@@ -7,3 +7,4 @@ scenario_queue*/
 *.key
 *.pptx
 ~$*
+SWITCH.egg-info/

@@ -1,0 +1,10 @@
+TODO: create hourly load profiles
+According to GE e-mail in Nov. 2015, they used hourly renewables (and probably loads) from 2008. The RPS Study was done in a 2020 context, and the appendix shows the peak and average loads.
+
+TODO: reserve requirements and capabilities
+The RPS Study shows graphs of the spinning reserves allocated for renewables in each scenario, during day or night, depending on the total wind or solar production. (Did they allocate these based on the forecasts or actual production?)
+
+TODO: assemble fuel price forecasts
+The RPS Study says they used the fuel prices from the 2013 IRP.
+
+TODO: assemble power plant technology profiles (incl. part-load heat rates)
