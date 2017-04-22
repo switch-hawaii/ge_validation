@@ -8,3 +8,9 @@ TODO: assemble fuel price forecasts
 The RPS Study says they used the fuel prices from the 2013 IRP.
 
 TODO: assemble power plant technology profiles (incl. part-load heat rates)
+
+TODO: incorporate IPP and other plant operating rules from section 6.1 of HSIS: http://www.hnei.hawaii.edu/sites/www.hnei.hawaii.edu/files/120401%20Hawaii%20Solar%20Integration%20Study%20for%20Oahu.pdf . Derek Stenclik told Kevin Davies by e-mail 5/9/16 that these were the commitment/dispatch rules for Kalaeloa, and they may also apply to the other plants.
+
+TODO: change load scale/offset to match scenario 2 figure
+
+TODO: read hourly loads, RE production and reserves from GE xlsx files (maybe use scenario name to find the sheet, then get column numbers for each type of resource from row 2 or 3 (whichever starts with "Hour") (parse resource type and size from the headers in this row in cols G-K))

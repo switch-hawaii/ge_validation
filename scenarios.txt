@@ -1,3 +1,2 @@
---scenario-name base
---scenario-name no_hydrogen --exclude-module switch_hawaii.hydrogen
-
+--scenario-name scen02 --inputs-dir inputs_02_week
+--scenario-name scen16 --inputs-dir inputs_16_week
